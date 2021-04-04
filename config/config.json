@@ -1,0 +1,9 @@
+{
+    "port": "1001",
+    "mongodb": {
+      "host": "localhost",
+      "port": "27017",
+      "db": "book_food"
+    }
+  }
+  
